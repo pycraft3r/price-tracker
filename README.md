@@ -264,9 +264,3 @@ docker-compose run backend pytest tests/test_scraper.py
 - React team for the excellent frontend library
 
 
----
-
-<div align="center">
-  <p>Built with ❤️ by the Price Tracker Team</p>
-  <p>© 2024 Price Tracker. All rights reserved.</p>
-</div>
